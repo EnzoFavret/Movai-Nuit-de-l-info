@@ -1,0 +1,56 @@
+body {
+    font-family: fantasy;
+    color: white;
+    text-align: center;
+    background-color: #e25327;
+}
+h1{
+  color:aquamarine;
+  text-decoration: none;
+
+}
+h2{
+  color:rgb(94, 39, 156);
+  text-decoration: none;
+  position: relative;
+  text-transform: uppercase;
+  
+}
+h3{
+  color:rgb(90, 7, 14);
+  text-decoration: none;
+  
+}
+h4{
+  color:rgb(12, 39, 112);
+  text-decoration: none;
+ 
+}
+p{
+  color:rgb(154, 248, 47);
+  text-decoration: none;
+  
+}
+#rat{
+  position: absolute;
+  top:15%;
+  left:15%;
+  width: 400px;
+  height: 400px;
+}
+#ugly{
+  position: absolute;
+  top:15%;
+  left:75%;
+  width: 400px;
+  height: 400px;
+}
+a{
+  text-decoration: none;
+  color:rgb(154, 248, 47);
+}
+button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
